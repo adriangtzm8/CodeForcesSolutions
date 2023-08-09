@@ -13,7 +13,6 @@ int main()
         b += k * i;
     }
     
-    cout << b << "\n";
     b -= m;
     if (b > 0) cout << b;
     else cout << 0;
